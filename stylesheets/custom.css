@@ -28,10 +28,10 @@ body {
 /* line 26, /Users/leenelson/medeo/animations/source/stylesheets/custom.scss */
 .navbar {
   padding: 20px;
-  background-color: blue; }
+  background-color: #fff; }
   /* line 29, /Users/leenelson/medeo/animations/source/stylesheets/custom.scss */
   .navbar a {
-    color: #fff;
+    color: #0687DD;
     text-decoration: none; }
 
 /* line 35, /Users/leenelson/medeo/animations/source/stylesheets/custom.scss */
@@ -49,10 +49,10 @@ body {
 .sidebar-nav {
   width: 250px;
   height: 100%;
-  background: #333; }
+  background: #0687DD; }
   /* line 47, /Users/leenelson/medeo/animations/source/stylesheets/custom.scss */
   .sidebar-nav .navbar {
-    background-color: #222;
+    background-color: #034a7a;
     color: #444; }
 
 /* line 54, /Users/leenelson/medeo/animations/source/stylesheets/custom.scss */
@@ -61,11 +61,12 @@ body {
   margin: 0; }
 /* line 59, /Users/leenelson/medeo/animations/source/stylesheets/custom.scss */
 .navbar-stacked li a {
-  color: #575757;
+  color: #005483;
   text-decoration: none;
   padding: 20px;
-  border-bottom: 1px solid #292929;
+  border-bottom: 1px solid #0578c4;
   display: block; }
   /* line 65, /Users/leenelson/medeo/animations/source/stylesheets/custom.scss */
   .navbar-stacked li a:hover {
-    background: #2e2e2e; }
+    background: #0681d3;
+    color: #86C3FC; }

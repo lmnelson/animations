@@ -1,0 +1,23 @@
+{"docName":"whereV2","path":"~/LayerVault/website/whereV2","relativeImagePath":"images","imagePath":"~/LayerVault/website/whereV2/images","framerPath":"~/LayerVault/website/whereV2/framer","viewInfoPath":"~/LayerVault/website/whereV2/framer/views.whereV2.js","logPaths":["/tmp/framerps.log","~/LayerVault/website/whereV2/framer/framerps.log"]}
+
+Running for ~/LayerVault/website/whereV2
+Could not read data file
+bg: Exporting image
+PROGRESS: 16.6666666666667
+map: Exporting image
+PROGRESS: 33.3333333333333
+blip: Exporting image
+PROGRESS: 50
+epicenter: Exporting image
+PROGRESS: 66.6666666666667
+title: Exporting image
+PROGRESS: 83.3333333333333
+content: Exporting image
+PROGRESS: 100
+6 views changed
+Writing ~/LayerVault/website/whereV2/index.html
+Writing ~/LayerVault/website/whereV2/app.js
+Writing ~/LayerVault/website/whereV2/framer/framer.js
+Writing ~/LayerVault/website/whereV2/framer/framerps.js
+
+SUCCESS: ~/LayerVault/website/whereV2
