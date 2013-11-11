@@ -1,0 +1,71 @@
+/* line 2, /Users/leenelson/medeo/animations/source/stylesheets/custom.scss */
+html,
+body {
+  height: 100%;
+  overflow-x: hidden; }
+
+/* line 7, /Users/leenelson/medeo/animations/source/stylesheets/custom.scss */
+body {
+  background: #fafafa; }
+
+/* line 11, /Users/leenelson/medeo/animations/source/stylesheets/custom.scss */
+#wrapper {
+  position: absolute;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  background: #fafafa;
+  top: 0;
+  transition-duration: .5s;
+  -webkit-transition-duration: .5s;
+  /* Safari */
+  transform: translateX(0px);
+  -ms-transform: translateX(0px);
+  /* IE 9 */
+  -webkit-transform: translateX(0px);
+  /* Safari and Chrome */ }
+
+/* line 26, /Users/leenelson/medeo/animations/source/stylesheets/custom.scss */
+.navbar {
+  padding: 20px;
+  background-color: blue; }
+  /* line 29, /Users/leenelson/medeo/animations/source/stylesheets/custom.scss */
+  .navbar a {
+    color: #fff;
+    text-decoration: none; }
+
+/* line 35, /Users/leenelson/medeo/animations/source/stylesheets/custom.scss */
+#wrapper.reveal {
+  transition-duration: .5s;
+  -webkit-transition-duration: .5s;
+  /* Safari */
+  transform: translateX(250px);
+  -ms-transform: translateX(250px);
+  /* IE 9 */
+  -webkit-transform: translateX(250px);
+  /* Safari and Chrome */ }
+
+/* line 43, /Users/leenelson/medeo/animations/source/stylesheets/custom.scss */
+.sidebar-nav {
+  width: 250px;
+  height: 100%;
+  background: #333; }
+  /* line 47, /Users/leenelson/medeo/animations/source/stylesheets/custom.scss */
+  .sidebar-nav .navbar {
+    background-color: #222;
+    color: #444; }
+
+/* line 54, /Users/leenelson/medeo/animations/source/stylesheets/custom.scss */
+.navbar-stacked ul {
+  padding: 0;
+  margin: 0; }
+/* line 59, /Users/leenelson/medeo/animations/source/stylesheets/custom.scss */
+.navbar-stacked li a {
+  color: #575757;
+  text-decoration: none;
+  padding: 20px;
+  border-bottom: 1px solid #292929;
+  display: block; }
+  /* line 65, /Users/leenelson/medeo/animations/source/stylesheets/custom.scss */
+  .navbar-stacked li a:hover {
+    background: #2e2e2e; }
