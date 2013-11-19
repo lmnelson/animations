@@ -1,0 +1,26 @@
+{"docName":"devices","path":"~/Desktop/devices","relativeImagePath":"images","imagePath":"~/Desktop/devices/images","framerPath":"~/Desktop/devices/framer","viewInfoPath":"~/Desktop/devices/framer/views.devices.js","logPaths":["/tmp/framerps.log","~/Desktop/devices/framer/framerps.log"]}
+
+Running for ~/Desktop/devices
+content: Exporting image
+PROGRESS: 10.7142857142857
+PROGRESS: 14.2857142857143
+PROGRESS: 17.8571428571429
+fourth: Exporting image
+PROGRESS: 25
+third: Exporting image
+PROGRESS: 28.5714285714286
+second: Exporting image
+PROGRESS: 32.1428571428571
+first: Exporting image
+PROGRESS: 35.7142857142857
+PROGRESS: 35.7142857142857
+PROGRESS: 53.5714285714286
+PROGRESS: 53.5714285714286
+PROGRESS: 53.5714285714286
+11 views changed
+Skipping ~/Desktop/devices/index.html (exists)
+Skipping ~/Desktop/devices/app.js (exists)
+Skipping ~/Desktop/devices/framer/framer.js (exists)
+Skipping ~/Desktop/devices/framer/framerps.js (exists)
+
+SUCCESS: ~/Desktop/devices
