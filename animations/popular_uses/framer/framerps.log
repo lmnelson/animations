@@ -1,0 +1,42 @@
+{"docName":"popular_uses","path":"~/LayerVault/website/popular_uses","relativeImagePath":"images","imagePath":"~/LayerVault/website/popular_uses/images","framerPath":"~/LayerVault/website/popular_uses/framer","viewInfoPath":"~/LayerVault/website/popular_uses/framer/views.popular_uses.js","logPaths":["/tmp/framerps.log","~/LayerVault/website/popular_uses/framer/framerps.log"]}
+
+Running for ~/LayerVault/website/popular_uses
+Renaming interface -> interface-2
+bg: Exporting image
+PROGRESS: 5.55555555555556
+message_1: Exporting image
+PROGRESS: 22.2222222222222
+message_2: Exporting image
+PROGRESS: 27.7777777777778
+message_3: Exporting image
+PROGRESS: 33.3333333333333
+interface: Exporting image
+PROGRESS: 38.8888888888889
+PROGRESS: 38.8888888888889
+PROGRESS: 38.8888888888889
+prescriptions_bubble: Exporting image
+PROGRESS: 50
+PROGRESS: 50
+specialists: Exporting image
+PROGRESS: 61.1111111111111
+follow_ups: Exporting image
+PROGRESS: 66.6666666666667
+medical_questions: Exporting image
+PROGRESS: 72.2222222222222
+prescriptions: Exporting image
+PROGRESS: 77.7777777777778
+title: Exporting image
+PROGRESS: 83.3333333333333
+PROGRESS: 83.3333333333333
+elipses: Exporting image
+selected: Exporting image
+PROGRESS: 94.4444444444444
+PROGRESS: 94.4444444444444
+PROGRESS: 100
+18 views changed
+Skipping ~/LayerVault/website/popular_uses/index.html (exists)
+Skipping ~/LayerVault/website/popular_uses/app.js (exists)
+Skipping ~/LayerVault/website/popular_uses/framer/framer.js (exists)
+Skipping ~/LayerVault/website/popular_uses/framer/framerps.js (exists)
+
+SUCCESS: ~/LayerVault/website/popular_uses
